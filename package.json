@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor/browser",
-  "version": "4.1.0",
+  "name": "@bvanderplanck/capacitor-in-app-browser",
+  "version": "1.0.0",
   "description": "The Browser API provides the ability to open an in-app browser and subscribe to browser events.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -13,14 +13,13 @@
     "ios/Plugin/",
     "CapacitorBrowser.podspec"
   ],
-  "author": "Ionic <hi@ionicframework.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/capacitor-plugins"
+    "url": "https://github.com/bvanderplanck/capacitor-in-app-browsers"
   },
   "bugs": {
-    "url": "https://github.com/ionic-team/capacitor-plugins/issues"
+    "url": "https://github.com/bvanderplanck/capacitor-in-app-browser/issues"
   },
   "keywords": [
     "capacitor",
